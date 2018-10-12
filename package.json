@@ -1,5 +1,5 @@
 {
-  "name": "hapijs-status-monitor",
+  "name": "@blackfisk/hapijs-status-monitor",
   "version": "1.0.0",
   "description": "Monitoring plugin for hapi.js applications",
   "main": "index.js",
